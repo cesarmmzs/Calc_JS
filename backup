@@ -1,0 +1,17 @@
+<div class="botao" id="porcentagem">%</div>
+        <div class="botao" id="limpar">Limpar</div>
+        <div class="botao" id="1">1</div>
+        <div class="botao" id="1">2</div>
+        <div class="botao" id="1">3</div>
+        <div class="botao" id="1">4</div>
+        <div class="botao" id="1">5</div>
+        <div class="botao" id="1">6</div>
+        <div class="botao" id="1">7</div>
+        <div class="botao" id="1">8</div>
+        <div class="botao" id="1">9</div>
+        <div class="botao" id="1">0</div>
+        <div class="botao" id="dividir"></div>
+        <div class="botao" id="multiplicar">1</div>
+        <div class="botao" id="somar">1</div>
+        <div class="botao" id="subtrair">1</div>
+        <div class="botao" id="concluir">1</div>

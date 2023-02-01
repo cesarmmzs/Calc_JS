@@ -1,0 +1,38 @@
+form{
+    height:30rem;
+    width: 20rem;
+
+    border-radius: 5px;
+    background-color: lightgrey;
+}
+
+.calc-container{
+padding: 15px 15px 0 15px;
+
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+.calc-display{
+    width: 18rem;
+    height: 2rem;
+
+    border-radius: 5px;
+
+    margin-bottom: 20px;
+}
+
+.button-container{
+    display: flex;
+}
+
+.botao{
+    height: 70px;
+    width: 70px;
+}
+
+.botao-resultado{
+    height: 70px;
+    width: 99%;
+}
